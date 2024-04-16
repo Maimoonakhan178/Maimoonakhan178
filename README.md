@@ -3,7 +3,8 @@
 <h4 align="center">AI ENGINEER | MACHINE LEARNING ENGINEER | DATA SCIENTIST </h4>
 
 <br/>
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=sohaibmuhammadkhan&label=Profile%20views&color=fe9a00&style=flat](https://komarev.com/ghpvc/?username=maimoonakha178n&label=Profile%20views&color=fe9a00&style=flat)" alt="maimoonasabir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maimoonakhan178n&label=Profile%20views&color=fe9a00&style=flat" alt="Profile views" /> </p>
+
 
 -  I am dedicated to advancing the frontiers of Artificial Intelligence.*
 
