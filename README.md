@@ -10,8 +10,7 @@
 
 - 📫 How to reach me *maimoonakhan673763@gmail.com*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/maimoona-sabir-725211280/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -47,6 +46,8 @@
   <img src="https://github.com/SohaibMuhammadKhan/SohaibMuhammadKhan/assets/129584803/1f3ae402-99dd-4b8d-888b-e1021d4fee9f" alt="Centered and Stretched GIF" width="49%">
 </div>
 <br/>
+Coding and AI
+
 
 <h2 align="left">📈 Performance Graph:</h2>
 
