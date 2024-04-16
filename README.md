@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Maimoona Sabir</h1>
 <h3 align="center">"The creative mind combines data wizardry, machine learning skill, and AI brilliance to shape technology one algorithm at a time."</h3>
-<h4 align="center">AI ENGINEER| MACHINE LEARNING ENGINEER | DATA SCIENTIST </h4>
+<h4 align="center">AI ENGINEER | MACHINE LEARNING ENGINEER | DATA SCIENTIST </h4>
 
 <br/>
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=sohaibmuhammadkhan&label=Profile%20views&color=fe9a00&style=flat](https://komarev.com/ghpvc/?username=maimoonakha178n&label=Profile%20views&color=fe9a00&style=flat)" alt="maimoonasabir" /> </p>
@@ -31,9 +31,9 @@
 
 <h3 align="left">Insights:</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohaibmuhammadkhan&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Maimoonakhan178&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaibmuhammadkhan&theme=dark" alt="GitHub Streak" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Maimoonakhan178&theme=dark" alt="GitHub Streak" /></p>
 
 <br/>
 <h3 align="left">Moods:</h3>
