@@ -40,17 +40,11 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Maimoonakhan178&theme=dark" alt="GitHub Streak" /></p>
 
 <br/>
-<h3 align="left">Moods:</h3>
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/SohaibMuhammadKhan/SohaibMuhammadKhan/assets/129584803/9975c675-6fc7-4a6f-9557-e415d0ddc66c" alt="Centered and Stretched GIF" width="49%">
-  <img src="https://github.com/SohaibMuhammadKhan/SohaibMuhammadKhan/assets/129584803/1f3ae402-99dd-4b8d-888b-e1021d4fee9f" alt="Centered and Stretched GIF" width="49%">
-</div>
-<br/>
-Coding and AI
+
 
 
 <h2 align="left">📈 Performance Graph:</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SohaibMuhammadKhan&theme=xcode&line=fe9a00&bg_color=151515&point=faffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-Keep coding and creating awesome things! 🚀
+[![Maimoona's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maimoonakhan178&theme=xcode&line=fe9a00&bg_color=151515&point=faffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 -->
